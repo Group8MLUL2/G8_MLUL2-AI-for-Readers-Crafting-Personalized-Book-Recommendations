@@ -47,7 +47,8 @@ This project includes an interactive demo using **FastAPI** and **Streamlit**:
 ### Prerequisites
 1. **Visual C++ Build Tools** (for `scikit-surprise`):
    - Install from [Microsoft Visual C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
-   
+   - During installation, ensure you select the components required for C++ development.
+
 2. **Required Libraries**:
    Install dependencies using:
    ```bash
